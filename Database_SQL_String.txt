@@ -1,0 +1,11 @@
+DATABASE "cookie_clicker";
+
+CREATE TABLE usersinfo (
+    name varchar(255),
+    pass varchar(255),
+    cookies int(255),
+    ability1 int(255),
+    ability2 int(255),
+    ability3 int(255),
+    ability4 int(255)
+);
